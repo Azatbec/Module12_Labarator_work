@@ -1,0 +1,7 @@
+C:\Users\azatb\source\repos\Програмирование Шаблон\Модуль 12 Лабараиорная работа\Module12_Labarator_Work\Module12_Labarator_Work\obj\Debug\Module12_Labarator_Work.csproj.AssemblyReference.cache
+C:\Users\azatb\source\repos\Програмирование Шаблон\Модуль 12 Лабараиорная работа\Module12_Labarator_Work\Module12_Labarator_Work\obj\Debug\Module12_Labarator_Work.csproj.CoreCompileInputs.cache
+C:\Users\azatb\source\repos\Програмирование Шаблон\Модуль 12 Лабараиорная работа\Module12_Labarator_Work\Module12_Labarator_Work\bin\Debug\Module12_Labarator_Work.exe.config
+C:\Users\azatb\source\repos\Програмирование Шаблон\Модуль 12 Лабараиорная работа\Module12_Labarator_Work\Module12_Labarator_Work\bin\Debug\Module12_Labarator_Work.exe
+C:\Users\azatb\source\repos\Програмирование Шаблон\Модуль 12 Лабараиорная работа\Module12_Labarator_Work\Module12_Labarator_Work\bin\Debug\Module12_Labarator_Work.pdb
+C:\Users\azatb\source\repos\Програмирование Шаблон\Модуль 12 Лабараиорная работа\Module12_Labarator_Work\Module12_Labarator_Work\obj\Debug\Module12_Labarator_Work.exe
+C:\Users\azatb\source\repos\Програмирование Шаблон\Модуль 12 Лабараиорная работа\Module12_Labarator_Work\Module12_Labarator_Work\obj\Debug\Module12_Labarator_Work.pdb
